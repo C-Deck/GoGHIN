@@ -1,0 +1,86 @@
+{
+  "golfer_id": "10625709",
+  "gender": "M",
+  "course_id": 31709,
+  "tee_set_id": 629421,
+  "tee_set_side": "All18",
+  "played_at": "2023-08-12",
+  "score_type": "A",
+  "number_of_holes": 18,
+  "override_confirmation": false,
+  "is_manual": false,
+  "hole_details": [
+    {
+      "hole_number": 1,
+      "raw_score": 6
+    },
+    {
+      "hole_number": 2,
+      "raw_score": 6
+    },
+    {
+      "hole_number": 3,
+      "raw_score": 5
+    },
+    {
+      "hole_number": 4,
+      "raw_score": 6
+    },
+    {
+      "hole_number": 5,
+      "raw_score": 4
+    },
+    {
+      "hole_number": 6,
+      "raw_score": 4
+    },
+    {
+      "hole_number": 7,
+      "raw_score": 6
+    },
+    {
+      "hole_number": 8,
+      "raw_score": 4
+    },
+    {
+      "hole_number": 9,
+      "raw_score": 5
+    },
+    {
+      "hole_number": 10,
+      "raw_score": 4
+    },
+    {
+      "hole_number": 11,
+      "raw_score": 5
+    },
+    {
+      "hole_number": 12,
+      "raw_score": 3
+    },
+    {
+      "hole_number": 13,
+      "raw_score": 4
+    },
+    {
+      "hole_number": 14,
+      "raw_score": 6
+    },
+    {
+      "hole_number": 15,
+      "raw_score": 3
+    },
+    {
+      "hole_number": 16,
+      "raw_score": 5
+    },
+    {
+      "hole_number": 17,
+      "raw_score": 6
+    },
+    {
+      "hole_number": 18,
+      "raw_score": 5
+    }
+  ]
+}
